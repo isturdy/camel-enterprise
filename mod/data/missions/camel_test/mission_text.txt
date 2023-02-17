@@ -1,0 +1,4 @@
+Location: Camel enterprise military simulator
+Date: 0.06.15
+
+All the autofit loadouts of Camel enterprise ships, for testing.

@@ -1,0 +1,11 @@
+{
+    "id": "camel-enterprise",
+    "name": "Camel enterprise",
+    "author": "Kirshak",
+    "utility": "true",
+    "version": "0.1.0",
+    "description": "A faction mod in its early stages.",
+    "gameVersion": "0.95.1a-RC6",
+    "jars":["camel-enterprise.jar"],
+    "modPlugin":"com.github.isturdy.camelenterprise.Camelenterprise"
+}
