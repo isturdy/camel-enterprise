@@ -6,9 +6,9 @@ import data.missions.camel_test.MissionDefinition
 import org.apache.log4j.Level
 import org.json.JSONObject
 
-class Camelenterprise : BaseModPlugin() {
+class CamelEnterprise : BaseModPlugin() {
     companion object {
-        val LOGGER = Global.getLogger(Camelenterprise::class.java)!!
+        val LOGGER = Global.getLogger(CamelEnterprise::class.java)!!
         const val SETTINGS_FILE: String = "camel-enterprise-settings.json"
         var SETTINGS: Settings = Settings(JSONObject())
     }
@@ -20,7 +20,7 @@ class Camelenterprise : BaseModPlugin() {
     }
 
     private fun setLogLevel(level: Level) {
-        Camelenterprise.LOGGER.level = level
+        CamelEnterprise.LOGGER.level = level
         MissionDefinition.LOGGER.level = level
     }
 }

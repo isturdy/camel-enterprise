@@ -32,8 +32,8 @@ class MissionDefinition : MissionDefinitionPlugin {
         api.addToFleet(FleetSide.ENEMY, "astral_Attack", FleetMemberType.SHIP, false)
 
         // Set up the map.
-        val width = 500f
-        val height = 5000f
+        val width = 15000f
+        val height = 35000f
         api.initMap(-width / 2f, width / 2f, -height / 2f, height / 2f)
     }
 }

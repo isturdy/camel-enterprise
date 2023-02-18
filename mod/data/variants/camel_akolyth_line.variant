@@ -1,0 +1,23 @@
+{
+  "variantId": "camel_akolyth_line",
+  "hullId": "camel_akolyth",
+  "displayName": "Line",
+  "goalVariant": false,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "lightac",
+        "WS0003": "lightac",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
