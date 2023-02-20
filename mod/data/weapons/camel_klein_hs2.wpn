@@ -1,0 +1,32 @@
+{
+  "id": "camel_klein_hs2",
+  "specClass": "projectile",
+  "projectileSpecId": "camel_klein_hs2_missile",
+  "type": "MISSILE",
+  "size": "SMALL",
+  "turretSprite": "graphics/camel/weapons/camel_klein-hs2_hardpoint.png",
+  "hardpointSprite": "graphics/camel/weapons/camel_klein-hs2_hardpoint.png",
+  "turretOffsets": [0,0],
+  "turretAngleOffsets": [],
+  "hardpointOffsets": [0,0],
+  "hardpointAngleOffsets": [],
+  "barrelMode": "ALTERNATING",
+  "animationType": "SMOKE",
+  "smokeSpec": {
+    "particleSizeMin": 20,
+    "particleSizeRange": 20,
+    "cloudParticleCount": 3,
+    "cloudDuration": 1,
+    "cloudRadius": 10,
+    "blowbackParticleCount": 3,
+    "blowbackDuration": 2,
+    "blowbackLength": 30,
+    "blowbackSpread": 10,
+    "particleColor": [
+      255,
+      255,
+      255,
+      255
+    ]
+  }
+}
