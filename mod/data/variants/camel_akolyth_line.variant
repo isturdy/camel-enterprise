@@ -1,23 +1,33 @@
 {
-  "variantId": "camel_akolyth_line",
-  "hullId": "camel_akolyth",
   "displayName": "Line",
-  "goalVariant": false,
-  "fluxCapacitors": 0,
-  "fluxVents": 0,
-  "quality": 1,
-  "permaMods": [],
+  "fluxCapacitors": 9,
+  "fluxVents": 10,
+  "hullId": "camel_akolyth",
   "hullMods": [],
+  "permaMods": [],
+  "sMods": [],
+  "variantId": "camel_akolyth_line",
   "weaponGroups": [
     {
       "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0004": "camel_klein",
+        "WS0005": "camel_klein"
+      }
+    },
+    {
+      "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0002": "lightac",
-        "WS0003": "lightac",
+        "WS0002": "camel_grund",
+        "WS0003": "camel_grund"
       }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {"WS0001": "pdburst"}
     }
-  ],
-  "modules": [],
-  "wings": []
+  ]
 }
