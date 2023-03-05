@@ -28,7 +28,7 @@ class CamelEnterprise : BaseModPlugin() {
 
     override fun pickMissileAI(missile: MissileAPI, launchingShip: ShipAPI?): PluginPick<MissileAIPlugin>? {
         return when (missile.projectileSpecId) {
-            in listOf("camel_klein_missile", "camel_klein_hs2_missile") -> PluginPick(
+            in listOf<String>() -> PluginPick(
                 camel_SaclosGuidance(missile, launchingShip!!),
                 CampaignPlugin.PickPriority.MOD_SET
             )
