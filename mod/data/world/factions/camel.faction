@@ -3,8 +3,8 @@
   "color": [245, 150, 30, 255],
   "displayName": "Camel enterprise",
   "displayNameWithArticle": "the Camel enterprise",
-  "logo": "graphics/factions/hegemony.png",
-  "crest": "graphics/factions/crest_hegemony.png",
+  "logo": "graphics/camel/factions/camelflag.png",
+  "crest": "graphics/camel/factions/camelcrest.png",
   "shipNamePrefix": "CES",
   "shipNameSources": {
     "NORSE": 1,

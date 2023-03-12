@@ -43,5 +43,6 @@
   "width": 10,
   "textureType": ROUGH,
   "textureScrollSpeed": 1,
-  "pixelsPerTexel": 1
+  "pixelsPerTexel": 1,
+  "showDamageWhenDecorative": true,
 }

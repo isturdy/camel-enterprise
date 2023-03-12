@@ -1,8 +1,12 @@
 name,id,tier,rarity,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,reload size,type,energy/shot,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,autofireAccBonus,extraArcForAI,hints,tags,groupTag,tech/manufacturer,for weapon tooltip>>,primaryRoleStr,speedStr,trackingStr,turnRateStr,accuracyStr,customPrimary,customPrimaryHL,customAncillary,customAncillaryHL,noDPSInTooltip,number
-Grund,camel_grund,2,,500,700,,100,,10,15,7,,,,KINETIC,100,,0,0.6,,,0,10,6,10,,1000,,,30,,,,"kinetic8, LR, camel_bp",,Camel,,Anti Shield,,,,,,,,,,
+Grund Mk 1,camel_grund_mk1,2,,500,700,,80,,10,15,5,,,,KINETIC,70,,0,0.55,,,0,11,6,10,,1100,,,30,,,,"kinetic8, LR, camel_bp",,Camel,,Anti Shield,,,,,,,,,,
+Grund Mk 2,camel_grund_mk2,3,,750,700,,100,,10,15,7,,,,KINETIC,100,,0,0.55,,,0,11,6,10,,1100,,,30,,,,"kinetic8, LR, camel_bp",,Camel,,Anti Shield,,,,,,,,,,
+Öden PDC mk1,camel_oden_mk1,2,,300,400,,60,,1,75,4,,,,FRAGMENTATION,5,,0,0.3,1,,0,5,2,10,,1500,,,10,,,PD,"pd8, camel_bp",,Camel,,Point Defense,,,,,,,,,,
+Öden PDC mk2,camel_oden_mk2,3,,500,400,,60,,1,75,6,,,,FRAGMENTATION,5,,0,0.15,1,,0,5,2,10,,1500,,,10,,,PD,"pd8, camel_bp",,Camel,,Point Defense,,,,,,,,,,
 
-Klein,camel_klein,1,,300,2000,,600,,15,25,5,6,,,HIGH_EXPLOSIVE,0,,0,10,1,,0,0,0,,,275,100,10,300,,,"STRIKE,USE_VS_FRIGATES,DO_NOT_AIM","missile9, strike3, camel_bp",,,,Anti Armor,Medium,Medium,,,,,,,TRUE,
-Klein HS2,camel_klein_hs2,1,,300,2000,,100,1000,15,25,5,6,,,ENERGY,0,,0,10,1,,0,0,0,,,275,100,10,300,,,"STRIKE,USE_VS_FRIGATES,DO_NOT_AIM","missile9, strike3, camel_bp",,,,Anti Armor,Medium,Medium,,,,,,,TRUE,
+
+Klein,camel_klein,1,,300,2000,,400,,15,25,5,6,,,HIGH_EXPLOSIVE,0,,0,10,1,,0,0,0,,,275,100,10,300,,,"STRIKE,USE_VS_FRIGATES,DO_NOT_AIM","missile9, strike3, camel_bp",,,,Anti Armor,Medium,Medium,,,,,,,TRUE,
+Klein HS2,camel_klein_hs2,1,,300,2000,,100,1000,15,25,5,6,,,ENERGY,0,,0,10,1,,0,0,0,,,275,100,10,300,,,"STRIKE,USE_VS_FRIGATES,DO_NOT_AIM","missile9, strike3, camel_bp",,,,EMP,Medium,Medium,,,,,,,TRUE,
 
 Camel Akolyth decorative left,camel_akolyth_decorative_left,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
 Camel Akolyth decorative right,camel_akolyth_decorative_right,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,

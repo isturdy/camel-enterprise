@@ -22,8 +22,8 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0002": "camel_grund",
-                "WS0003": "camel_grund"
+                "WS0002": "camel_grund_mk2",
+                "WS0003": "camel_grund_mk2"
             }
         },
         {

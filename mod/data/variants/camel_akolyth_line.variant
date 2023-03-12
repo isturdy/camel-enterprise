@@ -1,6 +1,6 @@
 {
   "displayName": "Line",
-  "fluxCapacitors": 9,
+  "fluxCapacitors": 10,
   "fluxVents": 10,
   "hullId": "camel_akolyth",
   "hullMods": [],
@@ -20,14 +20,14 @@
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0002": "camel_grund",
-        "WS0003": "camel_grund"
+        "WS0002": "camel_grund_mk2",
+        "WS0003": "camel_grund_mk2"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
-      "weapons": {"WS0001": "pdburst"}
+      "weapons": {"WS0001": "camel_oden_mk2"}
     }
   ]
 }

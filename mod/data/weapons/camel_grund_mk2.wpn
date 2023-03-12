@@ -1,11 +1,11 @@
 {
-  "id": "camel_grund",
+  "id": "camel_grund_mk2",
   "specClass": "projectile",
   "projectileSpecId": "heavyac_shot",
   "type": "BALLISTIC",
   "size": "SMALL",
-  "turretSprite": "graphics/camel/weapons/camel_grund_turret.png",
-  "hardpointSprite": "graphics/camel/weapons/camel_grund_hardpoint.png",
+  "turretSprite": "graphics/camel/weapons/camel_Grund Light_MG_MK.2_hardpoint.png",
+  "hardpointSprite": "graphics/camel/weapons/camel_Grund Light_MG_MK.2_hardpoint.png",
   "turretOffsets": [
     -5.5,
     0
@@ -29,5 +29,5 @@
   				   "particleDuration":0.13,
   				   "particleCount":35,
   				   "particleColor":[165,225,185,175]},
-  "fireSoundTwo":"autocannon_fire",
+  "fireSoundTwo":"camel_Klein_soundeffect",
 }
