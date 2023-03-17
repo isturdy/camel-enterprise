@@ -29,5 +29,5 @@
   				   "particleDuration":0.13,
   				   "particleCount":35,
   				   "particleColor":[165,225,185,175]},
-  "fireSoundTwo":"camel_Klein_soundeffect",
+  "fireSoundTwo":"camel_Grund_soundeffect",
 }
