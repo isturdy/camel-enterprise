@@ -9,8 +9,8 @@
     {"file":"sounds/camel/camel_Klein_soundeffect.wav","pitch":1, "volume":0.15},
   ],
   "camel_Oden_soundeffect": [
-     {"file":"sounds/camel/camel_öden_light_PDC_soundeffect.wav","pitch":1, "volume":0.25},
-     {"file":"sounds/camel/camel_öden_light_PDC_soundeffect.wav","pitch":0.99, "volume":0.25},
-     {"file":"sounds/camel/camel_öden_light_PDC_soundeffect.wav","pitch":1.01, "volume":0.25},
+     {"file":"sounds/camel/camel_öden_light_PDC_soundeffect.wav","pitch":1, "volume":0.10},
+     {"file":"sounds/camel/camel_öden_light_PDC_soundeffect.wav","pitch":0.99, "volume":0.10},
+     {"file":"sounds/camel/camel_öden_light_PDC_soundeffect.wav","pitch":1.01, "volume":0.10},
   ]
 }
