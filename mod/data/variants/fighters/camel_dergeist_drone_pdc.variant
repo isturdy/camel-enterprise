@@ -1,0 +1,20 @@
+{
+  "quality":0.0,
+  "displayName":"Drone",
+  "hullId":"camel_dergeist_drone",
+  "variantId":"camel_dergeist_drone_pdc",
+  "fluxVents":0,
+  "fluxCapacitors":0,
+  "hullMods":["no_weapon_flux"], # array of strings
+
+  # mode is either LINKED or ALTERNATING
+  # slot ids (WS ***) must match what's in the .ship file
+  "weaponGroups":[
+    {
+      "mode":"LINKED",
+  	  "weapons": {
+  	    "WS0001": "camel_oden_mk2",
+  	  },
+  	},
+  ],
+}

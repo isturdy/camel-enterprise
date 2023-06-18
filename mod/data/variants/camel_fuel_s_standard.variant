@@ -1,0 +1,17 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "camel_fuel_s",
+  "hullMods": [
+    "auxiliary_fuel_tanks",
+    "militarized_subsystems",
+    "blast_doors"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "camel_fuel_s_variant",
+  "weaponGroups": [],
+  "wings": []
+}

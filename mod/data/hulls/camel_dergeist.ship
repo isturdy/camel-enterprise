@@ -1,0 +1,113 @@
+{
+  "bounds": [
+    -34,
+    27,
+    -19,
+    39.5,
+    15.5,
+    12,
+    41,
+    11,
+    41,
+    -11,
+    15.5,
+    -12,
+    -19,
+    -39.5,
+    -34,
+    -27
+  ],
+  "builtInWings": ["camel_dergeist_drone_wing"],
+  "center": [
+    40,
+    37
+  ],
+  "collisionRadius": 48.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -35,
+        -9.5
+      ],
+      "style": "CAMEL",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -35,
+        9.5
+      ],
+      "style": "CAMEL",
+      "width": 10
+    }
+  ],
+  "height": 82,
+  "hullId": "camel_dergeist",
+  "hullName": "Dergeist",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 47.5,
+  "spriteName": "graphics/camel/hulls/camel_Dergeist.png",
+  "style": "CAMEL",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 90,
+      "arc": 206,
+      "id": "WS0001",
+      "locations": [
+        -18.5,
+        24.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 206,
+      "id": "WS0002",
+      "locations": [
+        -18.5,
+        -24.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0003",
+      "locations": [
+        14.5,
+        15.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "COMPOSITE"
+    },
+    {
+      "angle": -0,
+      "arc": 5,
+      "id": "WS0004",
+      "locations": [
+        14.5,
+        -15.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "COMPOSITE"
+    }
+  ],
+  "width": 80
+}

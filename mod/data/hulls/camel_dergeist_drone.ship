@@ -1,0 +1,63 @@
+{
+  "bounds": [
+    -4,
+    0,
+    -7,
+    -9,
+    6,
+    -6,
+    6,
+    6,
+    -7,
+    9,
+    -4,
+    -0
+  ],
+  "builtInWings": [],
+  "builtInMods": ["no_weapon_flux"],
+  "center": [
+    10,
+    9
+  ],
+  "collisionRadius": 10.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 5,
+      "length": 30,
+      "location": [
+        -4.5,
+        -0
+      ],
+      "style": "CAMEL",
+      "width": 10
+    }
+  ],
+  "height": 16,
+  "hullId": "camel_dergeist_drone",
+  "hullName": "Dergeist PDC Drone",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    -1,
+    0
+  ],
+  "shieldRadius": 0,
+  "spriteName": "graphics/camel/hulls/fighters/camel_Dergeist_PDCdrone.png",
+  "style": "CAMEL",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "WS0001",
+      "locations": [
+        3,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    }
+  ],
+  "width": 20
+}

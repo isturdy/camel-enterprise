@@ -1,0 +1,32 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 6,
+    "fluxVents": 3,
+    "hullId": "camel_dergeist",
+    "hullMods": [
+        "missleracks",
+        "eccm"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "camel_dergeist_escort",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "camel_klein",
+                "WS0004": "camel_klein"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "gravitonbeam",
+                "WS0002": "gravitonbeam"
+            }
+        }
+    ],
+    "wings": [],
+}

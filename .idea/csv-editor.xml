@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\mod\data\hulls\wing_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\mod\data\strings\descriptions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\mod\data\weapons\weapon_data.csv">
           <value>
             <Attribute>

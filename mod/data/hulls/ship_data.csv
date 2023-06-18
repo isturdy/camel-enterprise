@@ -1,3 +1,8 @@
 name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,number
 Akolyth,camel_akolyth,Attack Shuttle,Camel,maneuveringjets,4,1800,300,2000,,160,50,,150,120,100,75,100,150,FRONT,,210,0.3,1,,,20,50,50,30,1,30,10,8000,8,10,240,0.25,4,4,,camel_bp,,0.5,2,3,
 Stark,camel_stark,Armored Frigate,Camel,damper,6,2250,500,2200,,175,60,,120,120,100,75,100,225,OMNI,,120,0.4,1,,,30,50,75,30,1,30,10,12000,8,10,300,0.25,6,6,,camel_bp,,0.5,2,3,
+Cargo-S,camel_cargo_s,Freighter,Camel,flarelauncher,2,500,200,500,,30,15,,130,80,60,40,70,100,NONE,,0,0,0,,,2,5,200,30,1,30,9,600,8,20,180,0.25,2,2,"CIVILIAN, FREIGHTER",camel_bp,,0.5,2,3,,,,,,,,
+Fuel-S,camel_fuel_s,Tanker,Camel,flarelauncher,2,500,200,500,,30,15,,130,80,60,40,70,100,NONE,,0,0,0,,,2,5,10,300,1,300,9,600,8,20,180,0.25,2,2,"CIVILIAN, TANKER",camel_bp,,0.5,2,3,,,,,,,,
+Dergeist,camel_dergeist,Frigate,Camel,targetingfeed,5,2000,400,2000,,160,50,,130,120,100,75,100,200,OMNI,,240,0.4,1,,,25,40,50,30,1,30,10,10000,8,10,300,0.25,5,5,,camel_bp,,0.5,2,3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PDC Drone,camel_dergeist_drone,PDC Drone,Camel,,,750,150,200,,50,,,250,300,300,150,300,5,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,
